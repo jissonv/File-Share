@@ -1,0 +1,10 @@
+How can you share your files easily, One simple way to use python for sharing the files.
+If your system has python installed just type python -m SimpleHTTPServer 8000 in the terminal of the system where files resides.
+
+How to access the file from other device:
+
+http://<ip_address>:8000
+
+How to find ip-address of your computer:
+
+Use command ifconfig 
